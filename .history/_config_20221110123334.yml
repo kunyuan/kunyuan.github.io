@@ -29,7 +29,7 @@ author:
   pubmed:
   googlescholar: "https://scholar.google.com/citations?user=YItDGoIAAAAJ"
   email: "kunchen@flatironinstitute.org"
-  researchgate: "https://www.researchgate.net/profile/Kun-Chen-54"
+  researchgate: # e.g., "https://www.researchgate.net/profile/yourprofile"
   github: "kunyuan"
   orcid: "https://orcid.org/0000-0002-1584-1086"
 

@@ -27,11 +27,36 @@ author:
   location: "New York City, USA"
   employer:
   pubmed:
-  googlescholar: "https://scholar.google.com/citations?user=YItDGoIAAAAJ"
-  email: "kunchen@flatironinstitute.org"
-  researchgate: "https://www.researchgate.net/profile/Kun-Chen-54"
-  github: "kunyuan"
-  orcid: "https://orcid.org/0000-0002-1584-1086"
+  googlescholar: "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  email: "Lorem@ipsum.com"
+  researchgate: # e.g., "https://www.researchgate.net/profile/yourprofile"
+  uri:
+  bitbucket:
+  codepen:
+  dribbble:
+  flickr:
+  facebook:
+  foursquare:
+  github: # e.g., "github username"
+  google_plus:
+  keybase:
+  instagram:
+  impactstory: # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm:
+  linkedin: # e.g., "linkedin username"
+  dblp: # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid: # e.g., "https://orcid.org/xxxx"
+  pinterest:
+  soundcloud:
+  stackoverflow: # http://stackoverflow.com/users/123456/username
+  steam:
+  tumblr:
+  twitter:
+  vine:
+  weibo:
+  xing:
+  youtube:
+  wikipedia:
 
 # Reading Files
 include:

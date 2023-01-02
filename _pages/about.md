@@ -17,16 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a research fellow in Center for Computational Quantum Physics (CCQ), the Flatiron institute. My research searches for the emergent physical laws that drives the collective behaviors in real materials, ultracold atomic gases and quantum circuits. For this purpose, I have been leading a team to develop modern theoretical and numerical framework for quantum many-body physics. I am a core member of the [Simons Collaboration on the Many Electron Problem](https://www.simonsfoundation.org/mathematics-physical-sciences/many-electron-problem/), contributing to both research areas [Monte Carlo](https://www.simonsfoundation.org/mathematics-physical-sciences/many-electron-problem/monte-carlo/) and [Real Materials](https://www.simonsfoundation.org/mathematics-physical-sciences/many-electron-problem/real-materials/). My long-term research projects include: 
+I am a research fellow in Center for Computational Quantum Physics (CCQ), the Flatiron institute. My research searches for the emergent physical laws that drives the collective behaviors in real materials, ultracold atomic gases and quantum circuits. For this purpose, I have been leading a team to develop modern theoretical and numerical framework for quantum many-body physics. I am a core member of the [Simons Collaboration on the Many Electron Problem](https://www.simonsfoundation.org/mathematics-physical-sciences/many-electron-problem/), contributing to both research areas [Monte Carlo](https://www.simonsfoundation.org/mathematics-physical-sciences/many-electron-problem/monte-carlo/) and [Real Materials](https://www.simonsfoundation.org/mathematics-physical-sciences/many-electron-problem/real-materials/). My long-term research goals include: 
 
 1. Develop a modern quantum field theory of the many electron problem in real materials, then use the field theory to design next-gen ab-initio methods for electronic structure calculations.
 
-2. Model the fine structure of the multi-particle scattering in semiconductors, superconductors and many other systems, understand how they drive electronic instabilities and other exotic phenomena. Explore possible experimental probes to measure the angle-resolved multi-particle scattering amplitudes.
+2. Model the multi-particle scattering in semiconductors, superconductors and many other systems, understand how they drive electronic instabilities and other exotic phenomena. Explore possible experimental probes to measure the angle-resolved multi-particle scattering amplitudes.
 
-3. Search for effective quantum fields that features unconventional nonlocal interactions, understand their role in our mother nature, and develop theoretical and numerical frameworks to model them. 
+3. Searching for the interdisciplinary quantum many-body problems in quantum emulation and quantum computation. 
+
+<!-- 4. Develop [numerical effective field theory (NEFT)](https://github.com/numericalEFT), which is a numerical platform for modeling real-world condensed matter systems with quantum field theory. -->
+
+
+<!--4. Search for effective quantum fields that features unconventional nonlocal interactions, understand their role in our mother nature, and develop theoretical and numerical frameworks to model them.--> 
+
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-Solving the above problem calls for a new toolbox. For this purpose, I'm leading a team to develop a general puposed [numerical effective field theory framework](https://github.com/numericalEFT). 
+Solving the above problem calls for a new toolbox. For this purpose, I'm leading a team to develop a general-puposed [numerical effective field theory (NEFT) framework](https://github.com/numericalEFT). 
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -50,11 +56,11 @@ Solving the above problem calls for a new toolbox. For this purpose, I'm leading
 
 - [Entanglement and Charge-Sharpening Transitions in U(1) Symmetric Monitored Quantum Circuits](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.12.041002), Utkarsh Agrawal, Aidan Zabalo, **Kun Chen**, Justin Wilson, Andrew Potter, Jed Pixley, Sarang Gopalakrishnan, and Romain Vasseur. **Phy. Rev. X 12, 041002** (2022)
 
-- [Superconductivity in the Uniform Electron Gas: Irrelevance of Kohn-Luttinger Mechanism](https://arxiv.org/abs/2202.01320), Xiansheng Cai, Tao Wang, Nikolay Prokof'ev\*,  Boris Svistunov\*, and **Kun Chen\***, **ArXiv 2202.01320**(2022)
+- [Superconductivity in the Uniform Electron Gas: Irrelevance of Kohn-Luttinger Mechanism](https://arxiv.org/abs/2202.01320), Xiansheng Cai, Tao Wang, Nikolay Prokof'ev\*,  Boris Svistunov\*, and **Kun Chen\***, **Phys. Rev. B 106, L220502**(2022)
 
 - [On the Origin of Coulomb Pseudopotential: Two Wrongs Make a "Right"](https://arxiv.org/abs/2207.05238), Tao Wang, Xiansheng Cai, **Kun Chen\***, Nikolay Prokof'ev\*, and Boris Svistunov\*,  **ArXiv 2207.05238**(2022) 
 
-- [Dynamic response of the electron gas: Towards the exact exchange-correlation kernel](https://arxiv.org/abs/2205.13595), James LeBlanc, **Kun Chen**, Kristjan Haule, Nikolay Prokof'ev, Igor Tupitsyn\*, **ArXiv 2205.13595**(2022)
+- [Dynamic response of the electron gas: Towards the exact exchange-correlation kernel](https://arxiv.org/abs/2205.13595), James LeBlanc, **Kun Chen**, Kristjan Haule, Nikolay Prokof'ev, Igor Tupitsyn\*, **Phys. Rev. Lett. 129, 246401**(2022),  **EDITORS' SUGGESTION**
 
 - [Exchange-Correlation Effect in the Charge Response of a Warm Dense Electron Gas](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.L081126), Pengcheng Hou, Bao Wang, Kristjan Haule, Youjin Deng, and **Kun Chen\***, **Phys. Rev. B 106, L081126**(2022) 
 

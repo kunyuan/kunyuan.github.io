@@ -136,12 +136,12 @@ Solving the above problem calls for a new toolbox. For this purpose, I'm leading
 
 
 # 🎖 Honors and Awards
-- *2010* Guo Moruo Scholarship (Highest honor to undergraduate students at University of Science and Technology in China)
-- *2011* The first Hangsheng Wu Memorial Prize
+- *2019* Kandula Sastry Thesis Award for an outstanding Ph.D. thesis in Physics 
+- *2015* Chinese Academy of Sciences President's Special Award (highest honor for Ph.D. candidates in China)
+- *2015* Outstanding Graduate Student Scholar of Innovation Center for Quantum Information and Quantum Frontiers (Special Award)
 - *2013*, *2015* China National Scholarship for Graduate Students
-- *2015* Outstanding Graduate Student Scholar of Innovation Center for Quantum Information and Quantum Frontiers (Special Price)
-- *2015* Chinese Academy of Sciences President's Award (Special Prize)  (Highest honor to graduate students in China)
-- *2019* Kandula Sastry Thesis Award for an outstanding Ph.D. thesis in Physics
+- *2011* The First Professor Hangsheng Wu Memorial Award [link](http://news.ustc.edu.cn/info/1055/59476.htm)
+- *2010* Guo Moruo Scholarship (highest honor for B.S. candidates in the university)
 
 # 📖 Educations
 - *June 2020 - now*, Flatiron Research Fellow, Center for Computational Quantum Physics, Flatiron Institue, New York City, USA

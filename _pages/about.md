@@ -17,13 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a research fellow in Center for Computational Quantum Physics (CCQ), the Flatiron institute. My research searches for the emergent physical laws that drives the collective behaviors in real materials, ultracold atomic gases and quantum circuits. For this purpose, I have been leading a team to develop modern theoretical and numerical framework for quantum many-body physics. I am a core member of the [Simons Collaboration on the Many Electron Problem](https://www.simonsfoundation.org/mathematics-physical-sciences/many-electron-problem/), contributing to both research areas [Monte Carlo](https://www.simonsfoundation.org/mathematics-physical-sciences/many-electron-problem/monte-carlo/) and [Real Materials](https://www.simonsfoundation.org/mathematics-physical-sciences/many-electron-problem/real-materials/). My long-term research goals include: 
+<!-- I am a research fellow in Center for Computational Quantum Physics (CCQ), the Flatiron institute. My research searches for the emergent physical laws that drives the collective behaviors in real materials, ultracold atomic gases and quantum circuits. For this purpose, I have been leading a team to develop modern theoretical and numerical framework for quantum many-body physics. I am a core member of the [Simons Collaboration on the Many Electron Problem](https://www.simonsfoundation.org/mathematics-physical-sciences/many-electron-problem/), contributing to both research areas [Monte Carlo](https://www.simonsfoundation.org/mathematics-physical-sciences/many-electron-problem/monte-carlo/) and [Real Materials](https://www.simonsfoundation.org/mathematics-physical-sciences/many-electron-problem/real-materials/). My long-term research goals include: 
 
 1. Develop a modern quantum field theory of the many electron problem in real materials, then use the field theory to design next-gen ab-initio methods for electronic structure calculations.
 
 2. Model the multi-particle scattering in semiconductors, superconductors and many other systems, understand how they drive electronic instabilities and other exotic phenomena. Explore possible experimental probes to measure the angle-resolved multi-particle scattering amplitudes.
 
-3. Searching for the interdisciplinary quantum many-body problems in quantum emulation and quantum computation. 
+3. Searching for the interdisciplinary quantum many-body problems in quantum emulation and quantum computation.  -->
+
+Dr. Kun Chen is an Associate Professor at the Institute of Theoretical Physics, Chinese Academy of Sciences (ITP, CAS). His research aims to advance the understanding of many-electron phenomena in materials by developing non-local effective field theories and pioneering novel theoretical approaches. A significant aspect of his work involves leveraging artificial intelligence for quantum field theoretical studies of correlated materials. He obtained his B.S. from the University of Science and Technology of China (USTC) and his Ph.D. from the University of Massachusetts at Amherst. His postdoctoral training at Rutgers University and the Flatiron Institute centered on fundamental condensed matter theory, particularly electron correlation effects.
 
 <!-- 4. Develop [numerical effective field theory (NEFT)](https://github.com/numericalEFT), which is a numerical platform for modeling real-world condensed matter systems with quantum field theory. -->
 
@@ -32,7 +34,7 @@ I am a research fellow in Center for Computational Quantum Physics (CCQ), the Fl
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-Solving the above problem calls for a new toolbox. For this purpose, I'm leading a team to develop a general-puposed [numerical effective field theory (NEFT) framework](https://github.com/numericalEFT). 
+<!-- Solving the above problem calls for a new toolbox. For this purpose, I'm leading a team to develop a general-puposed [numerical effective field theory (NEFT) framework](https://github.com/numericalEFT).  -->
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -54,11 +56,17 @@ Solving the above problem calls for a new toolbox. For this purpose, I'm leading
 
 # 📝 Publications 
 
+- [Charge and Entanglement Criticality in a U(1)-Symmetric Hybrid Circuit of Qubits](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.045135), Ahana Chakraborty, **Kun Chen**, Aidan Zabalo, Justin Wilson, Jed Pixley,  **Phys. Rev. B 110, 045135** (2024).
+
+- [Precursory Cooper Flow in Ultralow-Temperature Superconductors](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013099), Pengcheng Hou, Xiansheng Cai, Tao Wang, Youjin Deng, Nikolay V Prokof'ev, Boris V Svistunov, **Kun Chen\***, **Phys. Rev. Research 6, 013099** (2024).
+
+- [Low rank Green's function representations applied to dynamical mean-field theory](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.245123), Nan Sheng, Alexander Hampel, Sophie Beck, Olivier Parcollet, Nils Wentzell, Jason Kaye, **Kun Chen**,  **Phys. Rev. B. 107, 245123** (2023).
+
+- [On the Origin of Coulomb Pseudopotential](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.L140507) Tao Wang, Xiansheng Cai, **Kun Chen**, Nikolay Prokof’ev, and Boris Svistunov, **Physical Review B 107, L140507** (2023).
+
 - [Entanglement and Charge-Sharpening Transitions in U(1) Symmetric Monitored Quantum Circuits](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.12.041002), Utkarsh Agrawal, Aidan Zabalo, **Kun Chen**, Justin Wilson, Andrew Potter, Jed Pixley, Sarang Gopalakrishnan, and Romain Vasseur. **Phy. Rev. X 12, 041002** (2022)
 
 - [Superconductivity in the Uniform Electron Gas: Irrelevance of Kohn-Luttinger Mechanism](https://arxiv.org/abs/2202.01320), Xiansheng Cai, Tao Wang, Nikolay Prokof'ev\*,  Boris Svistunov\*, and **Kun Chen\***, **Phys. Rev. B 106, L220502**(2022)
-
-- [On the Origin of Coulomb Pseudopotential: Two Wrongs Make a "Right"](https://arxiv.org/abs/2207.05238), Tao Wang, Xiansheng Cai, **Kun Chen\***, Nikolay Prokof'ev\*, and Boris Svistunov\*,  **ArXiv 2207.05238**(2022) 
 
 - [Dynamic response of the electron gas: Towards the exact exchange-correlation kernel](https://arxiv.org/abs/2205.13595), James LeBlanc, **Kun Chen**, Kristjan Haule, Nikolay Prokof'ev, Igor Tupitsyn\*, **Phys. Rev. Lett. 129, 246401**(2022),  **EDITORS' SUGGESTION**
 
@@ -105,6 +113,15 @@ Solving the above problem calls for a new toolbox. For this purpose, I'm leading
 - [Universal Properties of the Higgs Resonance in (2+1)-Dimensional U(1) Critical Systems](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.170403), **Kun Chen**, Longxiang Liu, Youjin Deng\*, Lode Pollet\*, and Nikolay Prokof'ev\*, , **Phys. Rev. Lett. 110, 170403** (2013).
 
 # 💬 Invited Talks
+
+- *2024.12*, **Precision Many-Body Physics Workshop**, (CUNY, New York), The Coulomb Pseudopotential Problem
+
+- *2024.9*, **Current and Future Computational Approaches to Quantum Many-Body Systems 2024**, (University of Tokyo, Japan), Many-electron Effective Field Theory and Its Applications 
+
+- *2024.7*, **Computational Quantum Many-Body Theory Conference**, (KIAS, Seoul), Many-electron Effective Field Theory and Its Applications
+
+- *2023.11*, **Quantum Simulations for Fundamental Physics** (Shanghai), The Unitary Electron Gas Problem
+
 - *2022.6*, **Mechanisms for Superconductivity Workshop** (Flatiron, New York City), Renormalized Field Theory of the Electron Liquid
 
 - *2022.5*, **2022 Workshop on Recent Developments in Electronic Structure** (ES22) (Columbia University, New York City), Picasso’s bull study and the renormalized theory of valence electrons
@@ -143,9 +160,12 @@ Solving the above problem calls for a new toolbox. For this purpose, I'm leading
 - *2011* The First Professor Hangsheng Wu Memorial Award [link](http://news.ustc.edu.cn/info/1055/59476.htm)
 - *2010* Guo Moruo Scholarship (highest honor for B.S. candidates in the university)
 
-# 📖 Educations
-- *June 2020 - now*, Flatiron Research Fellow, Center for Computational Quantum Physics, Flatiron Institue, New York City, USA
+# 📖 Work Experience
+- *December 2023 - now*, Institute of Theoretical Physics, Chinese Academy of Science 
+- *June 2020 - Sep. 2023*, Flatiron Research Fellow, Center for Computational Quantum Physics, Flatiron Institue, New York City, USA
 - *Sep 2017 - Jun 2020*, Simons Postdoctoral Fellow, Rutgers University, New Jersey, USA
+
+# 📖 Educations
 - *Sep 2012 - May 2018*, PhD, University of Massachusetts Amherst, Massachusetts, USA
 - *Sep 2011 - Oct 2016*, PhD, National Laboratory for Physical Sciences at the Microscale, Hefei, China
 - *Sep 2007 - Jun 2011*, B.S. University of Science and Technology of China, Hefei, China

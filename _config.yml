@@ -23,12 +23,12 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 author:
   name: "Kun Chen (陈锟)"
   avatar: "images/android-chrome-512x512.png"
-  bio: "Center for Computational Quantum Physics, Flatiron Institute"
-  location: "New York City, USA"
+  bio: "Institute of Theoretical Physics, Chinese Academy of Science (ITP-CAS)"
+  location: "Beijing China"
   employer:
   pubmed:
   googlescholar: "https://scholar.google.com/citations?user=YItDGoIAAAAJ"
-  email: "kunchen@flatironinstitute.org"
+  email: "chenkun@itp.ac.cn"
   # researchgate: "https://www.researchgate.net/profile/Kun-Chen-54"
   github: "kunyuan"
   orcid: "https://orcid.org/0000-0002-1584-1086"
